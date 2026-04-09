@@ -20,8 +20,7 @@ Due to GitHub size limitations, the dataset is hosted externally.
 - High load factor indicates better seat utilization  
 - Found trends in airline performance across regions  
 ## 📷 PowerBI Dashboard Preview
-<img width="1342" height="758" alt="Dashboard image" src="https://github.com/user-attachments/assets/72d206f1-6ef9-4033-8839-7c05a7ad44ad" />
-
+![Dashboard](<img width="1342" height="758" alt="Dashboard image" src="https://github.com/user-attachments/assets/72d206f1-6ef9-4033-8839-7c05a7ad44ad" />)
 ## 🚀 Conclusion
 
 This project provides actionable insights into airline performance, helping improve decision-making and customer satisfaction.
