@@ -1,5 +1,7 @@
 # HighCloud-Airline-Analysis
 # ✈️ High Cloud Airline Analysis Dashboard
+
+Airline data analysis dashboard built using Power BI to analyze delays, cancellations, and performance trends.
 ## 📌 Project Overview
 This project focuses on analyzing airline operations data to uncover insights related to flight performance, delays, cancellations, and passenger trends. The dashboard is built using Power BI to provide clear, interactive visualizations for better decision-making.
 ## 🎯 Objectives
