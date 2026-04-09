@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/1a8iUnEFsLCmqMHSUcWUAfomzJjFG-sQ3/export?
 * Include predictive analytics using machine learning
 ## 👩‍💻 Author
 
-**Srilathapittam67**
+**Srilathapittam**
 ## ⭐ Acknowledgements
 
 * Dataset source: Airline data (public dataset)
